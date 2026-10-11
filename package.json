@@ -5,13 +5,13 @@
 	"type": "module",
 	"license": "MIT",
 	"author": "JWI <jwi@j-w-i.org>",
-	"homepage": "https://github.com/JWIMaster/dsh-plugin-auto-commit-button#readme",
+	"homepage": "https://github.com/j-w-i/dsh-plugin-auto-commit-button#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/JWIMaster/dsh-plugin-auto-commit-button.git"
+		"url": "git+https://github.com/j-w-i/dsh-plugin-auto-commit-button.git"
 	},
 	"bugs": {
-		"url": "https://github.com/JWIMaster/dsh-plugin-auto-commit-button/issues"
+		"url": "https://github.com/j-w-i/dsh-plugin-auto-commit-button/issues"
 	},
 	"keywords": [
 		"dsh",
